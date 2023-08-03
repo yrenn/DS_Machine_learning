@@ -1,4 +1,4 @@
-# data_modeler
+# DS_Machine_Learning
 This project creates a data modeler to build and test models' accuracy using Python.
 
 
